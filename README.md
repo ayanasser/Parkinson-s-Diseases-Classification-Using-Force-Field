@@ -1,5 +1,5 @@
 # Parkinson-s-Diseases-Classification-Using-Force-Field
-This repo is using Matlab , 
+This repo is using Matlab , Dataset from phsyonet , stages were (Pre-processing data, Feature extraction and Knn Classifier )
 Gait Analysis of Parkinson’s Disease (PD)
 Patients and Control Objects has been analyzed to show differences in PD Patients and
 Control Objects. Using data provided by Phisonet’s Gaitpdb database (in which 8
